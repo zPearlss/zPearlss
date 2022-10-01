@@ -5,7 +5,10 @@
  _ **PHP**
  _ **C++**
  _ **C#**
- and
+ _ **JavaScript**
  _ **HTML**
+ _ **CSS**
+ and
+ _ **Python**
 
 - if you want to contact me you could contact me via discord: zPearlss#1420
